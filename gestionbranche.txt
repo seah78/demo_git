@@ -1,5 +1,6 @@
 gestion des branches
 
+<<<<<<< HEAD
 Les modification effectuées dans testbranche n'apparaissent pas dans master
 
 pour basculer d'une branche à l'autre j'utilise git checkout lenomdelabranche
@@ -7,3 +8,15 @@ pour basculer d'une branche à l'autre j'utilise git checkout lenomdelabranche
 pour créer une nouvelle branche et s'y positionner directement, on utilise la commande git checkout -b nomdelanouvellebranche
 
 c'est partie pour la fusion de branche, je récupère testbranche
+=======
+pour lister les branches il faut utiliser git branch
+
+Pour créer une branche il faut utiliser git branch +lenomdelabranche
+
+Les informations ajouté dans la branche master n'apparaissent pas ici et inversement
+>>>>>>> testbranche
+
+
+Après la fusion de branche testbranche
+
+Je lance la fusion avec testbranche2
