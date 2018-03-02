@@ -2,4 +2,4 @@ Ce fichier a pour but de tester la gestion des conflits de branche
 
 ce texte a pour but de créer un conflit
 
-dans la branche master
+résolution du conflit de la branche master et la branche conflit
