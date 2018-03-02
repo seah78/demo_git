@@ -3,3 +3,5 @@ gestion des branches
 pour lister les branches il faut utiliser git branch
 
 Pour créer une branche il faut utiliser git branch +lenomdelabranche
+
+Les informations ajouté dans la branche master n'apparaissent pas ici et inversement
