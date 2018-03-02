@@ -7,6 +7,7 @@ pour basculer d'une branche à l'autre j'utilise git checkout lenomdelabranche
 
 pour créer une nouvelle branche et s'y positionner directement, on utilise la commande git checkout -b nomdelanouvellebranche
 
+<<<<<<< HEAD
 c'est partie pour la fusion de branche, je récupère testbranche
 =======
 pour lister les branches il faut utiliser git branch
@@ -20,3 +21,13 @@ Les informations ajouté dans la branche master n'apparaissent pas ici et invers
 Après la fusion de branche testbranche
 
 Je lance la fusion avec testbranche2
+=======
+ce commentaire est ajouté après avoir ajouté la branche testbranche2 par la commande git checkout -b testbranche2
+
+>>>>>>> testbranche2
+
+
+
+Après la fusion des branches, je constate que les lignes s'ajoutent au contenu original
+
+Cela a de l'importance pour l'édition de code
