@@ -1,1 +1,6 @@
 gestion des branches
+
+Les modification effectuées dans testbranche n'apparaissent pas dans master
+
+pour basculer d'une branche à l'autre j'utilise git checkout lenomdelabranche
+
