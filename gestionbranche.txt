@@ -1,1 +1,3 @@
 gestion des branches
+
+pour lister les branches il faut utiliser git branch
